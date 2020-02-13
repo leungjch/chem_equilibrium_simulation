@@ -3,5 +3,5 @@ A particle-simplified molecular simulation of chemical equilibrium and Le Chatel
 
 The simulation speed was set very slow intentionally. Use up arrow and down-arrow to control the tickrate of the simulation. Press right to view concentration-time graph of the system. Press x to add more H2 molecules.
 
-![](graph.png)
+![width=0.5](graph.png)
 Concentration-time graph. When there is a change in equilibrium concentrations (spike in [H2]), the system will shift to use up more reactants and achieve a new state of equilibrium.
